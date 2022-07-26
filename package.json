@@ -1,0 +1,31 @@
+{
+  "name": "fe-sprint-my-agora-states-reference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codestates-seb/fe-sprint-my-agora-states-reference.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codestates-seb/fe-sprint-my-agora-states-reference/issues"
+  },
+  "homepage": "https://github.com/codestates-seb/fe-sprint-my-agora-states-reference#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^4.5.2",
+    "style-loader": "^3.3.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "dompurify": "^2.3.10",
+    "webpack": "^5.74.0"
+  }
+}
